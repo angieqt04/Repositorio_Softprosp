@@ -37,6 +37,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'Benchmarking',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -76,8 +77,11 @@ WSGI_APPLICATION = 'Softprosp.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'benchmarking',
+        'USER': 'angieqt04',
+        'PASSWORD': '12345',
+        'HOST': 'localhost',
     }
 }
 
@@ -85,7 +89,7 @@ DATABASES = {
 # Internationalization
 # https://docs.djangoproject.com/en/1.8/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'en-co'
 
 TIME_ZONE = 'UTC'
 
@@ -100,3 +104,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.8/howto/static-files/
 
 STATIC_URL = '/static/'
+
+TEMPLATES_DIR = {
+    'templates',
+}
