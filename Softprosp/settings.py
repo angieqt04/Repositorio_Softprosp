@@ -79,7 +79,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'benchmarking',
-        'USER': 'angieqt04',
+        'USER': 'angieqt',
         'PASSWORD': '12345',
         'HOST': 'localhost',
     }
