@@ -56,7 +56,7 @@ ROOT_URLCONF = 'Softprosp.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [os.path.join(BASE_DIR, 'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -105,6 +105,5 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-TEMPLATES_DIR = {
-    'templates',
-}
+STATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)
+
