@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77929531-05da-49d8-8018-34f4b4b5115a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/forms.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/migrations/0001_initial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/migrations/0002_auto_20170306_1454.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/migrations/0003_auto_20170308_1626.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/migrations/0004_auto_20170315_2010.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/migrations/0005_auto_20170316_1415.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/migrations/0006_auto_20170316_2005.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/migrations/0007_auto_20170316_2027.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/migrations/0008_auto_20170321_1828.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/migrations/0009_auto_20170321_1910.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/templates/Administrador/add_actividad.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/templates/Administrador/estudio.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/templates/Administrador/registro_org.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/templates/Experto/delete_idea.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/templates/Experto/idea_form.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/templates/Experto/list_ideas.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/templates/Moderador/add_conclusion.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/templates/Moderador/delete_conclusion.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/templates/Moderador/resultado_fc.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/templates/Moderador/sesion.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/templates/base/base.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/templates/ejemplo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/templates/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Benchmarking/views.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Benchmarking/__init__.py" afterPath="$PROJECT_DIR$/core_apps/cuantitativas/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Benchmarking/migrations/__init__.py" afterPath="$PROJECT_DIR$/core_apps/__init__.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/core_apps/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/core_apps/cuantitativas/__init__.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Softprosp/settings.py" afterPath="$PROJECT_DIR$/Softprosp/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Softprosp/urls.py" afterPath="$PROJECT_DIR$/Softprosp/urls.py" />
@@ -85,7 +55,100 @@
     <favorites_list name="Softprosp" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Benchmarking/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Benchmarking/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Benchmarking/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+                <element signature="e#708#864#0" expanded="false" />
+                <element signature="e#898#1059#0" expanded="false" />
+                <element signature="e#2218#2363#0" expanded="false" />
+                <element signature="e#2398#2538#0" expanded="false" />
+                <element signature="e#2540#2635#1" expanded="false" />
+                <element signature="e#2666#3328#0" expanded="false" />
+                <element signature="e#3365#3505#0" expanded="false" />
+                <element signature="e#3542#3658#0" expanded="false" />
+                <element signature="e#3699#3767#0" expanded="false" />
+                <element signature="e#3808#3973#0" expanded="false" />
+                <element signature="e#4016#4181#0" expanded="false" />
+                <element signature="e#4224#4358#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Benchmarking/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="172" column="36" lean-forward="true" selection-start-line="172" selection-start-column="36" selection-end-line="172" selection-end-column="36" />
+              <folding>
+                <element signature="e#16#44#0" expanded="true" />
+                <element signature="e#337#1014#0" expanded="false" />
+                <element signature="e#2179#2662#0" expanded="false" />
+                <element signature="e#3143#3634#0" expanded="false" />
+                <element signature="e#5142#5619#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Benchmarking/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Benchmarking/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tests.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Benchmarking/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -147,18 +210,23 @@
         <option value="$PROJECT_DIR$/Benchmarking/templates/Moderador/add_conclusion.html" />
         <option value="$PROJECT_DIR$/Benchmarking/templates/Moderador/delete_conclusion.html" />
         <option value="$PROJECT_DIR$/Softprosp/settings.py" />
-        <option value="$PROJECT_DIR$/Benchmarking/admin.py" />
         <option value="$PROJECT_DIR$/Benchmarking/templates/base/base.html" />
-        <option value="$PROJECT_DIR$/Benchmarking/models.py" />
         <option value="$PROJECT_DIR$/Benchmarking/forms.py" />
         <option value="$PROJECT_DIR$/Benchmarking/templates/ejemplo.html" />
         <option value="$PROJECT_DIR$/static/js/demo.js" />
         <option value="$PROJECT_DIR$/Benchmarking/urls.py" />
-        <option value="$PROJECT_DIR$/Benchmarking/views.py" />
         <option value="$PROJECT_DIR$/Benchmarking/templates/Experto/list_ideas.html" />
         <option value="$PROJECT_DIR$/Benchmarking/templates/Moderador/resultado_fc.html" />
         <option value="$PROJECT_DIR$/core_apps/Benchmarking/views.py" />
+        <option value="$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/admin.py" />
+        <option value="$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/forms.py" />
         <option value="$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/views.py" />
+        <option value="$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/templates/base/base.html" />
+        <option value="$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/urls.py" />
+        <option value="$PROJECT_DIR$/core_apps/core/models.py" />
+        <option value="$PROJECT_DIR$/Benchmarking/views.py" />
+        <option value="$PROJECT_DIR$/Benchmarking/admin.py" />
+        <option value="$PROJECT_DIR$/Benchmarking/models.py" />
       </list>
     </option>
   </component>
@@ -191,6 +259,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -213,7 +282,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="core_apps" />
+              <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -227,22 +296,35 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="core_apps" />
+              <option name="myItemId" value="Benchmarking" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Softprosp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Softprosp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cuantitativas" />
+              <option name="myItemId" value="Benchmarking" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/proyecto_mv/prospectiva" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="PostgreSQL" />
@@ -250,11 +332,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Softprosp" />
       <recent name="$PROJECT_DIR$/core_apps/cuantitativas" />
       <recent name="$PROJECT_DIR$/core_apps" />
       <recent name="$PROJECT_DIR$/Benchmarking/templates/Experto" />
-      <recent name="$PROJECT_DIR$/Benchmarking/templates/Administrador" />
-      <recent name="$PROJECT_DIR$/Benchmarking/templates/Ana_externo" />
     </key>
   </component>
   <component name="RunManager" selected="Django tests.Test: image001_3myiBEX.jpg">
@@ -605,7 +687,21 @@
       <option name="project" value="LOCAL" />
       <updated>1493130054383</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Formularios p1">
+      <created>1499465349367</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1499465349367</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Estructuracion">
+      <created>1499466219472</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1499466219472</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -624,16 +720,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11155379" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1689243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3381877" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36687306" sideWeight="0.5123506" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36859503" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32686085" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32662538" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14551084" sideWeight="0.4876494" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5619195" sideWeight="0.4876494" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289256" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -681,7 +777,8 @@
     <MESSAGE value="Configuracion postgresql" />
     <MESSAGE value="Modelos" />
     <MESSAGE value="Formularios p1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Formularios p1" />
+    <MESSAGE value="Estructuracion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estructuracion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -690,20 +787,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Softprosp/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1065">
@@ -712,14 +795,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/models.py">
+    <entry file="file://$PROJECT_DIR$/Benchmarking/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/admin.py">
+    <entry file="file://$PROJECT_DIR$/Benchmarking/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
@@ -735,7 +818,7 @@
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f9917240-b5df-4a5a-88ef-ea4b60059012/console.sql" />
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/models.py">
+    <entry file="file://$PROJECT_DIR$/Benchmarking/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
@@ -750,12 +833,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/migrations/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Benchmarking/migrations/__init__.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f9917240-b5df-4a5a-88ef-ea4b60059012/console.sql" />
     <entry file="file://$PROJECT_DIR$/templates/base/base.html" />
     <entry file="file://$PROJECT_DIR$/Benchmarking/templates/Bench-EXP Factores -Principales.html" />
     <entry file="file://$PROJECT_DIR$/Benchmarking/templates/Bench-EXP PMedidas-Votacion.html" />
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/forms.py">
+    <entry file="file://$PROJECT_DIR$/Benchmarking/forms.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -768,13 +851,6 @@
     <entry file="file://$PROJECT_DIR$/calendario-2017_3kiMVFi.jpg" />
     <entry file="file://$PROJECT_DIR$/calendario-2017.jpg" />
     <entry file="file://$PROJECT_DIR$/Benchmarking/templates/creacion_señales.html" />
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Softprosp/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -792,50 +868,29 @@
     <entry file="file://$PROJECT_DIR$/Benchmarking/templates/base/sesion.html" />
     <entry file="file://$PROJECT_DIR$/Benchmarking/migrations/0012_remove_idea_dependencia.py" />
     <entry file="file://$PROJECT_DIR$/Benchmarking/migrations/0011_auto_20170321_2214.py" />
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/migrations/0010_auto_20170321_2127.py">
+    <entry file="file://$PROJECT_DIR$/Benchmarking/migrations/0010_auto_20170321_2127.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/templates/Administrador/add_actividad.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/templates/Moderador/sesion.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="29" column="44" lean-forward="true" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Benchmarking/templates/Moderador/add_conclusión.html" />
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/migrations/0013_grupo_ideas_ideas.py">
+    <entry file="file://$PROJECT_DIR$/Benchmarking/migrations/0013_grupo_ideas_ideas.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/templates/Experto/delete_idea.html">
+    <entry file="file://$PROJECT_DIR$/Benchmarking/templates/Experto/delete_idea.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/templates/Moderador/add_conclusion.html">
+    <entry file="file://$PROJECT_DIR$/Benchmarking/templates/Moderador/add_conclusion.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="56" column="101" lean-forward="false" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="101" />
@@ -849,31 +904,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/templates/Moderador/delete_conclusion.html">
+    <entry file="file://$PROJECT_DIR$/Benchmarking/templates/Moderador/delete_conclusion.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="76" lean-forward="false" selection-start-line="4" selection-start-column="76" selection-end-line="4" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="156" column="40" lean-forward="false" selection-start-line="156" selection-start-column="40" selection-end-line="156" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="761">
-          <caret line="185" column="32" lean-forward="true" selection-start-line="185" selection-start-column="32" selection-end-line="185" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -884,59 +918,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/templates/ejemplo.html">
+    <entry file="file://$PROJECT_DIR$/Benchmarking/templates/ejemplo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="238" column="12" lean-forward="false" selection-start-line="238" selection-start-column="12" selection-end-line="238" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/templates/base/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="223" column="49" lean-forward="false" selection-start-line="223" selection-start-column="49" selection-end-line="223" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/templates/Experto/list_ideas.html">
+    <entry file="file://$PROJECT_DIR$/Benchmarking/templates/Experto/list_ideas.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
           <caret line="66" column="58" lean-forward="false" selection-start-line="66" selection-start-column="58" selection-end-line="66" selection-end-column="58" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-            <element signature="e#579#703#0" expanded="false" />
-            <element signature="e#743#899#0" expanded="false" />
-            <element signature="e#933#1094#0" expanded="false" />
-            <element signature="e#1132#2216#0" expanded="false" />
-            <element signature="e#2253#2398#0" expanded="false" />
-            <element signature="e#2433#2573#0" expanded="false" />
-            <element signature="e#2575#2670#1" expanded="false" />
-            <element signature="e#2701#3363#0" expanded="false" />
-            <element signature="e#3400#3540#0" expanded="false" />
-            <element signature="e#3577#3693#0" expanded="false" />
-            <element signature="e#3734#3802#0" expanded="false" />
-            <element signature="e#3843#4008#0" expanded="false" />
-            <element signature="e#4051#4216#0" expanded="false" />
-            <element signature="e#4259#4393#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -948,15 +941,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/templates/Administrador/estudio.html">
+    <entry file="file://$PROJECT_DIR$/Benchmarking/templates/Moderador/resultado_fc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="136" column="0" lean-forward="false" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+          <folding>
+            <element signature="e#8588#8594#1#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Benchmarking/templates/Experto/idea_form.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="74" column="60" lean-forward="false" selection-start-line="74" selection-start-column="60" selection-end-line="74" selection-end-column="60" />
+          <caret line="16" column="48" lean-forward="false" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/templates/Administrador/registro_org.html">
+    <entry file="file://$PROJECT_DIR$/Benchmarking/templates/Administrador/add_actividad.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Benchmarking/templates/Administrador/registro_org.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
@@ -964,21 +975,121 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/templates/Moderador/resultado_fc.html">
+    <entry file="file://$PROJECT_DIR$/Benchmarking/templates/Moderador/sesion.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="136" column="0" lean-forward="false" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+        <state relative-caret-position="316">
+          <caret line="32" column="42" lean-forward="true" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Benchmarking/templates/Administrador/estudio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="74" column="60" lean-forward="false" selection-start-line="74" selection-start-column="60" selection-end-line="74" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Benchmarking/templates/base/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1787">
+          <caret line="187" column="87" lean-forward="true" selection-start-line="187" selection-start-column="87" selection-end-line="187" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Benchmarking/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core_apps/core/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Benchmarking/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Benchmarking/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Benchmarking/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Benchmarking/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
           <folding>
-            <element signature="e#8588#8594#1#HTML" expanded="true" />
+            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core_apps/cuantitativas/Benchmarking/templates/Experto/idea_form.html">
+    <entry file="file://$PROJECT_DIR$/Benchmarking/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="16" column="48" lean-forward="false" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        <state relative-caret-position="271">
+          <caret line="172" column="36" lean-forward="true" selection-start-line="172" selection-start-column="36" selection-end-line="172" selection-end-column="36" />
+          <folding>
+            <element signature="e#16#44#0" expanded="true" />
+            <element signature="e#337#1014#0" expanded="false" />
+            <element signature="e#2179#2662#0" expanded="false" />
+            <element signature="e#3143#3634#0" expanded="false" />
+            <element signature="e#5142#5619#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Benchmarking/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Benchmarking/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+            <element signature="e#708#864#0" expanded="false" />
+            <element signature="e#898#1059#0" expanded="false" />
+            <element signature="e#2218#2363#0" expanded="false" />
+            <element signature="e#2398#2538#0" expanded="false" />
+            <element signature="e#2540#2635#1" expanded="false" />
+            <element signature="e#2666#3328#0" expanded="false" />
+            <element signature="e#3365#3505#0" expanded="false" />
+            <element signature="e#3542#3658#0" expanded="false" />
+            <element signature="e#3699#3767#0" expanded="false" />
+            <element signature="e#3808#3973#0" expanded="false" />
+            <element signature="e#4016#4181#0" expanded="false" />
+            <element signature="e#4224#4358#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
